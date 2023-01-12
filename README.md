@@ -1,7 +1,7 @@
+<img src = "https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width='150' />
+
 # 💫 About Me:
 I'm currently working on few project based on React and MERN stack.<br>And also I'm pretty interested in machine learning and android development.<br>In my upcoming projects I'm planning to have a project on these mentioned fields.<br>I'm currently learning technologies related to full stack web development and also technologies<br>that will help me to develop my problem solving skills and also will make me a better<br>programmer as well.
-
-<img src = "https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width='150' />
 
 
 ## 🌐 Socials:
