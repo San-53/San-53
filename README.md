@@ -1,8 +1,13 @@
 # 💫 About Me:
 I'm currently working on few project based on React and MERN stack.<br>And also I'm pretty interested in machine learning and android development.<br>In my upcoming projects I'm planning to have a project on these mentioned fields.<br>I'm currently learning technologies related to full stack web development and also technologies<br>that will help me to develop my problem solving skills and also will make me a better<br>programmer as well.
 
+<img src = "https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width='150' />
+
 
 ## 🌐 Socials:
+
+<img src = 'https://media.giphy.com/media/uwmNTx7NaDbJnXlKbx/giphy.gif' width='150' />
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanchari-gangopadhyay-3a8b97211/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Ganguly25San) 
 
 # 💻 Tech Stack:
@@ -12,6 +17,7 @@ I'm currently working on few project based on React and MERN stack.<br>And also 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=San-53&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=San-53&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<img src = 'https://media.giphy.com/media/fEj8oLjc7gwe78PoNL/giphy.gif' width= '250' />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=San-53&theme=radical&no-frame=false&no-bg=false&margin-w=4)
