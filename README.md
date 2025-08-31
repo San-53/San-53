@@ -1,8 +1,7 @@
 <img src = "https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width='150' />
 
 # 💫 About Me:
-I'm currently working on few project based on React and MERN stack.<br>And also I'm pretty interested in machine learning and android development.<br>In my upcoming projects I'm planning to have a project on these mentioned fields.<br>I'm currently learning technologies related to full stack web development and also technologies<br>that will help me to develop my problem solving skills and also will make me a better<br>programmer as well.
-
+I am currently working as a Salesforce Developer, specializing in building robust financial websites and maintaining online Loan Origination application systems.<br>With a strong background in Salesforce, I have successfully delivered scalable solutions that meet business needs. Previously, I’ve worked with technologies such as React, the MERN stack, and Java with Spring Boot.<br>I am actively expanding my knowledge in full stack web development while also focusing on technologies that enhance my problem-solving skills and overall programming expertise.<br>In the future, I’m eager to explore Artificial Intelligence and Machine Learning in greater depth.
 
 ## 🌐 Socials:
 
